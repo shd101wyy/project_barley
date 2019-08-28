@@ -29,6 +29,8 @@ You may want to change the value of `@name` below `==UserScript==` from `Project
 
 Then change the variables `playID`, `playType`, `ticketType`, `ticketNum`, `viewers` to the value that you want.
 
+Don't forget to **save** the script.
+
 ---
 
 For example, if you want to automate the process of purchasing the following ticket:
