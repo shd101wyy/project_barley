@@ -49,11 +49,11 @@ const ticketType = 2; // 票档
 
 ![Screenshot from 2019-08-28 21-21-01](https://i.loli.net/2019/08/28/8uXItlowxPWCd2i.png)
 
-2. Then open the webpage of the show that you want to watch. Right click at the webpage, choose `Inspect`(`审查元素`), then check the Console and make sure that it displays the message like `[info] 启动自动抢票脚本`.
+2. Then open the webpage of the show that you want to watch. Right click at the webpage, choose `Inspect`(`审查元素`), then check the Console and make sure that it displays the message like `[info] 启动自动抢票脚本` so our script is running in background.
 
 ![Screenshot from 2019-08-28 21-31-31](https://i.loli.net/2019/08/28/KSyNn4BcE2fw5Th.png)
 
-3. You many want to open the same webpage to increase the chance of succeeding.
+3. You many want to open the same webpage in multiple tabs to increase the chance of succeeding.
 
 ![Screenshot from 2019-08-28 21-35-23](https://i.loli.net/2019/08/28/KYTFOuhbq6nQyj5.png)
 
