@@ -57,7 +57,9 @@ const ticketType = 2; // 票档
 
 ![Screenshot from 2019-08-28 21-35-23](https://i.loli.net/2019/08/28/KYTFOuhbq6nQyj5.png)
 
-4. Repeat the steps in the previous section to create the script for the show(aka, play) that you want to watch.
+4. Grab a cup of coffee and take a break. Wait for the dummy script to automatically buy the tickets for you when time reaches.
+
+5. Repeat the steps in the previous section to create the script for the show(aka, play) that you want to watch.
 
 ## Notice
 
